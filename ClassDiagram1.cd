@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Microsoft Sans Serif" Size="8.25" />
+  <Class Name="WebSlinger.Form1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>AQgAAAEAACAAAAAAEACEAAAKAAAAAAAAAAAAAAAAAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebSlinger.Program" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebSlinger.AlexaRecord">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DAL\AlexaRecord.cs</FileName>
+      <HashCode>AAJAAEAAAAAAEACAIAABIEgAAAQAAAUAAAAEAAAIEAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebSlinger.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebSlinger.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAACAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebSlinger.BacklinkDetailRecord">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DAL\BacklinkDetailRecord.cs</FileName>
+      <HashCode>AIAASAAACIIAAAIAIAAJEAAIAABIAAAAgAABAAAQEAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebSlinger.BacklinkSummaryRecord">
+    <Position X="0.5" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>DAL\BacklinkSummaryRecord.cs</FileName>
+      <HashCode>AAAAQACAAAAAAAAQAgAAAAAAAAAEAhAAAAAAQAAAEAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebSlinger.CompeteRecord">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DAL\CompeteRecord.cs</FileName>
+      <HashCode>ACAAAAAgAPHPCAAQEAAAAABYBACIAAAEAAAABAIAEAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebSlinger.dnengMainRecord">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DAL\dnengMainRecord.cs</FileName>
+      <HashCode>AQAAIAjAMmCEEgwggCEAAQAAQIACAAAAAAAAEAEABBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebSlinger.EstibotRecord">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DAL\EstibotRecord.cs</FileName>
+      <HashCode>BAAAAQAAAAAAEQAAAAAEAAJCAAAAAkAAAABAAAAAkAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebSlinger.IndexPagesRecord">
+    <Position X="5.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DAL\IndexPagesRecord.cs</FileName>
+      <HashCode>AAAAABBAAAAAAQgAAAAAAAAAAAAAAAAgAAABAAAAEAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+  </Class>
+  <Class Name="WebSlinger.WhoIsRecord">
+    <Position X="7.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DAL\WhoIsRecord.cs</FileName>
+      <HashCode>AEAAAAAAQACIAAAAAAAACAAAAAAAIAAABEEAAAEAkCA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebSlinger.SQLConn">
+    <Position X="6" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>SQLConn.cs</FileName>
+      <HashCode>ACAAAAAAAEAAIgAAAAABAAAAAAAAAAAAAAAABACAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
